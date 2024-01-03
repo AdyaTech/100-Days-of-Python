@@ -26,3 +26,16 @@
 **Thoughts:** Successfully made program that performs several probability experiments to determine the percentages for groups of different sizes having the same birthday dates.
 
 **Link to work:** [Birthday Paradox](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%202)
+
+
+### Day 3: 3rd January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. The bitmap concept
+2. The bitmap.splitlines() method
+3. Using a multiline string
+
+**Thoughts:** Successfully made program that uses a multiline string as a bitmap to determine how it should display a message from the user.
+
+**Link to work:** [Bitmap Message](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%203)
