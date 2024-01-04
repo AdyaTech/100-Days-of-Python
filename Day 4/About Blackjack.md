@@ -17,4 +17,4 @@ In case of a tie, the bet is returned to the player. The dealer stops hitting at
 # What did we learn?
 Blackjack is a program that uses images drawn with text characters called **ASCII art**. **A**merican **S**tandard **C**ode for **I**nformation **I**nterchange (ASCII) is a mapping of text characters to numeric codes that computers used before Unicode replaced it. 
 
-The playing cards in this program are an example of ASCII art
+The playing cards in this program are an example of ASCII art.
