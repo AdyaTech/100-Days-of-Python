@@ -39,3 +39,15 @@
 **Thoughts:** Successfully made program that uses a multiline string as a bitmap to determine how it should display a message from the user.
 
 **Link to work:** [Bitmap Message](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%203)
+
+
+### Day 4: 4th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. ASCII art is the use of images drawn with text characters.
+2. American Standard Code for Information Interchange (ASCII) is a mapping of text characters to numeric codes that computers used before Unicode replaced it.
+
+**Thoughts:** Successfully made a program that uses the playing cards as an example of ASCII art.
+
+**Link to work:** [Blackjack](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%204)
