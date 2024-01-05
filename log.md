@@ -51,3 +51,15 @@
 **Thoughts:** Successfully made a program that uses the playing cards as an example of ASCII art.
 
 **Link to work:** [Blackjack](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%204)
+
+
+### Day 5: 5th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Concept of Cartesian coordinates
+2. About **bext** module
+
+**Thoughts:** Successfully made a program that simulates this colorful DVD logo by making it change direction each time it hits an edge. We also keep track of how many times a logo hits a corner of the screen.
+
+**Link to work:** [Bouncing DVD](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%205)
