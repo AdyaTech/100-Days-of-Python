@@ -63,3 +63,15 @@
 **Thoughts:** Successfully made a program that simulates this colorful DVD logo by making it change direction each time it hits an edge. We also keep track of how many times a logo hits a corner of the screen.
 
 **Link to work:** [Bouncing DVD](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%205)
+
+
+### Day 6: 6th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Concept of loops
+2. Arithmetic Operations
+
+**Thoughts:** Successfully made a program that converts a dog's age into human years.
+
+**Link to work:** [Dog Age Calculator](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%206)
