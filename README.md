@@ -9,6 +9,7 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 | 3 | Bitmap Message |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%203)|[Link](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%203/About%20Bitmap%20Message.md)|
 | 4 | Blackjack |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%204)|[Link](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%204/About%20Blackjack.md)|
 | 5 | Bouncing DVD |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%205)|[Link](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%205/About%20Bouncing%20DVD.md)|
+| 6 | Dog Age Calculator |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%206)|[Link](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%206/About%20Dog%20Age%20Calculator.md)|
 
 ## Output
 1. Bagels
@@ -30,3 +31,7 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 5. Bouncing DVD
    
 ![Day 5](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%205/video.gif)
+
+6. Dog Age Calculator
+   
+![Day 6](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%206/video.gif)
