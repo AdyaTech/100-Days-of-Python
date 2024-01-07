@@ -36,3 +36,7 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 6. Dog Age Calculator
    
 ![Day 6](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%206/video.gif)
+
+7. Story Generator
+   
+![Day 7](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%207/video.gif)
