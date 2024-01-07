@@ -75,3 +75,15 @@
 **Thoughts:** Successfully made a program that converts a dog's age into human years.
 
 **Link to work:** [Dog Age Calculator](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%206)
+
+
+### Day 7: 7th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Concept of lists
+2. Random module
+
+**Thoughts:** Successfully made a program that generates a random story every time the user runs the program.
+
+**Link to work:** [Story Generator](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%207)
