@@ -87,3 +87,16 @@
 **Thoughts:** Successfully made a program that generates a random story every time the user runs the program.
 
 **Link to work:** [Story Generator](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%207)
+
+
+### Day 8: 8th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Logical Thinking
+2. Concept of Algorithms
+3. Random Module
+
+**Thoughts:** Successfully made a command-line game where a user has the option to choose between rock, paper and scissors. If the user wins the score is added and at the end when the user finishes the game, the score is shown to the user.
+
+**Link to work:** [Rock, Paper, Scissor Game](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%208)
