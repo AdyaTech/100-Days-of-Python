@@ -11,6 +11,7 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 | 5 | Bouncing DVD |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%205)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%205/About%20Bouncing%20DVD.md)|
 | 6 | Dog Age Calculator |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%206)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%206/About%20Dog%20Age%20Calculator.md)|
 | 7 | Story Generator |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%207)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%207/About%20Story%20Generator.md)|
+| 8 | Rock, Paper, Scissor Game |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%208)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%208/About%20Rock%2C%20Paper%2C%20Scissor%20Game.md)|
 
 ## Output
 1. Bagels
@@ -40,3 +41,7 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 7. Story Generator
    
 ![Day 7](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%207/video.gif)
+
+8. Rock, Paper, Scissor Game
+   
+![Day 8](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%208/video.gif)
