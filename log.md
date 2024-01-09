@@ -100,3 +100,12 @@
 **Thoughts:** Successfully made a command-line game where a user has the option to choose between rock, paper and scissors. If the user wins the score is added and at the end when the user finishes the game, the score is shown to the user.
 
 **Link to work:** [Rock, Paper, Scissor Game](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%208)
+
+
+### Day 9: 9th January, 2024
+
+**Today's Progress**: Learnt about the Tkinter library in Python.
+
+**Thoughts:** Successfully made a GUI application that tells time.
+
+**Link to work:** [Digital Clock](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%209)
