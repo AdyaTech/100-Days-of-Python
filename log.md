@@ -109,3 +109,16 @@
 **Thoughts:** Successfully made a GUI application that tells time.
 
 **Link to work:** [Digital Clock](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%209)
+
+
+### Day 10: 10th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Symbols
+2. pyperclip module
+3. About Encryption-Decryption
+
+**Thoughts:** Successfully made a program that lets the user encrypt and decrypt messages.
+
+**Link to work:** [Caesar Cipher](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2010)
