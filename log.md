@@ -122,3 +122,15 @@
 **Thoughts:** Successfully made a program that lets the user encrypt and decrypt messages.
 
 **Link to work:** [Caesar Cipher](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2010)
+
+
+### Day 11: 11th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Functions
+2. Objects
+
+**Thoughts:** Successfully made a program that generates printable text files of monthly calendars for the month and year you enter.
+
+**Link to work:** [Calendar Maker](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2011)
