@@ -179,6 +179,18 @@
 1. random module
 2. About randint
 
-**Thoughts:** Successfully made a program that features a small algorithm for drawing ASCII-art diamonds of various sizes
+**Thoughts:** Successfully made a program that features a small algorithm for drawing ASCII-art diamonds of various sizes.
 
 **Link to work:** [Diamonds](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2015)
+
+
+### Day 16: 16th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Variables
+2. Hashtag character usage in Python
+
+**Thoughts:** Successfully made a program that is an animation of a deep cave that descends forever into the earth.
+
+**Link to work:** [Deep Cave](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2016)
