@@ -15,6 +15,10 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 | 9 | Digital Clock |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%209)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%209/About%20Digital%20Clock.md)|
 | 10 | Caesar Cipher |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2010)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2010/About%20Caesar%20Cipher.md)|
 | 11 | Calendar Maker |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2011)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2011/About%20Calendar%20Maker.md)|
+| 12 | Carrot in a Box |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2012)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2012/About%20Carrot%20in%20a%20Box.md)|
+| 13 | Clickbait Header Generator |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2013)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2013/About%20Clickbait.md)|
+| 14 | Cho-Han |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2014)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2014/About%20Cho-Han.md)|
+| 15 | Diamonds |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2015)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2015/About%20Diamonds.md)|
 
 ## Output
 1. Bagels
@@ -60,3 +64,19 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 11. Calendar Maker
    
 ![Day 11](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2011/image.png)
+
+12. Carrot in a Box
+   
+![Day 12](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2012/image.png)
+
+13. Clickbait Header Generator
+   
+![Day 13](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2013/video.gif)
+
+14. Cho-Han
+   
+![Day 14](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2014/image.png)
+
+15. Diamonds
+   
+![Day 15](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2015/image.png)
