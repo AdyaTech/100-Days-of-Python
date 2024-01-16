@@ -134,3 +134,51 @@
 **Thoughts:** Successfully made a program that generates printable text files of monthly calendars for the month and year you enter.
 
 **Link to work:** [Calendar Maker](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2011)
+
+
+### Day 12: 12th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Functions
+2. Objects
+
+**Thoughts:** Successfully made a game for two human players. Each player has a box. One box has a carrot in it, and each player wants to have the carrot. The first player looks in their box and then tells the second player they either do or don’t have the carrot. The second player gets to decide whether to swap boxes or not.
+
+**Link to work:** [Carrot in a Box](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2012)
+
+
+### Day 13: 13th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Mad libs
+2. Objects
+
+**Thoughts:** Successfully made a program that comes up with millions of outrageous fake headlines.
+
+**Link to work:** [Clickbait](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2013)
+
+
+### Day 14: 14th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. random module
+2. About randint
+
+**Thoughts:** Successfully made a dice game played in gambling houses of feudal Japan. Two six-sided dice are rolled in a cup, and gamblers must guess if the sum is even (cho) or odd (han). The house takes a small cut of all winnings.
+
+**Link to work:** [Cho-Han](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2014)
+
+
+### Day 15: 15th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. random module
+2. About randint
+
+**Thoughts:** Successfully made a program that features a small algorithm for drawing ASCII-art diamonds of various sizes
+
+**Link to work:** [Diamonds](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2015)
