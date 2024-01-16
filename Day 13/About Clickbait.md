@@ -7,7 +7,7 @@ This program has several functions for generating different kinds of clickbait h
 This is like a “Mad Libs” activity book, except the computer fills in the blanks, allowing the program to generate thousands of clickbait headlines in seconds.
 
 # What did we learn?
-Carrot in a Box helps us to understand about:
+Clickbait helps us to understand about:
 
 1. Mad libs
 2. Objects
