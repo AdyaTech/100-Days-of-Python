@@ -20,6 +20,7 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 | 14 | Cho-Han |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2014)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2014/About%20Cho-Han.md)|
 | 15 | Diamonds |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2015)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2015/About%20Diamonds.md)|
 | 16 | Deep Cave |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2016)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2016/About%20Deep%20Cave.md)|
+| 17 | Ducklings |[Link](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2017)|[About](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2017/About%20Ducklings.md)|
 
 ## Output
 1. Bagels
@@ -85,3 +86,7 @@ In this challenge, I'll be coding in Python for the next 100 Days and share my p
 16. Deep Cave
    
 ![Day 16](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2016/video.gif)
+
+17. Ducklings
+   
+![Day 17](https://github.com/AdyaTech/100-Days-of-Python/blob/master/Day%2017/Image.png)
