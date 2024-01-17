@@ -205,4 +205,4 @@
 
 **Thoughts:** Successfully made a program that creates a scrolling field of ducklings, each having a slight variation.
 
-**Link to work:** [Deep Cave](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2017)
+**Link to work:** [Ducklings](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2017)
