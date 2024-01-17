@@ -194,3 +194,15 @@
 **Thoughts:** Successfully made a program that is an animation of a deep cave that descends forever into the earth.
 
 **Link to work:** [Deep Cave](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2016)
+
+
+### Day 17: 17th January, 2024
+
+**Today's Progress**: Learnt about:
+
+1. Concept of class in Python
+2. The init() method
+
+**Thoughts:** Successfully made a program that creates a scrolling field of ducklings, each having a slight variation.
+
+**Link to work:** [Deep Cave](https://github.com/AdyaTech/100-Days-of-Python/tree/master/Day%2017)
