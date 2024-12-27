@@ -9,5 +9,8 @@ This program performs several probability experiments to determine the percentag
 # What did we learn?
 Birthday Paradox helps us to understand about:
 
-1. Probability Theory
-2. Concept of Exponents
+1. Probability Theory: Explore the likelihood of shared birthdays in groups of different sizes.
+2. Monte Carlo Simulations: Learn how repeated random experiments are used to estimate probabilities.
+3. Custom Functions: Understand how Python functions like getBirthdays() and getMatch() are designed for specific tasks.
+4. Working with Dates: Gain insight into Python's datetime module for date manipulation.
+5. String Formatting: Use string interpolation to display data cleanly and efficiently.
